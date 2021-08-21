@@ -3,4 +3,4 @@ This is a project made during my Erasmus mobility period in Bologna, Italy with 
 
 The report for the project: [AaAS Report](https://github.com/balintbujtor/SpaceInvaders/blob/main/AaAS%20Report.pdf)
 
-The presentation for the project: [AaAS Presentation](/SpaceInvaders/blob/main/AAAS%20Project%20Presentation.pptx)
+The presentation for the project: [AaAS Presentation](https://github.com/balintbujtor/SpaceInvaders/blob/main/AAAS%20Project%20Presentation.pptx)
